@@ -1,85 +1,38 @@
 # Alan Schaffer
 
-### Information Systems Analysis and Development Student
-
-Passionate about technology, cybersecurity, Linux systems, and software development. Currently building practical skills through personal projects, academic studies, and continuous learning.
-
----
+First-Semester ADS Student • Cybersecurity Enthusiast • Linux User
 
 ## About Me
 
-* ADS (Information Systems Analysis and Development) student
-* Strong interest in Cybersecurity and Backend Development
-* Linux enthusiast, daily user of Arch Linux and Alpine Linux
-* Currently completing the Google Cybersecurity Professional Certificate (Coursera)
-* English level: B1
-* Always looking to learn new technologies and improve problem-solving skills
+- First-semester ADS (Information Systems Analysis and Development) student
+- Interested in Cybersecurity and Backend Development
+- Arch Linux and Alpine Linux user
+- Currently completing the Google Cybersecurity Professional Certificate
+- English: B1 (B2 reading and listening)
 
----
+## 🛠️ Technologies
 
-## Interests
+- Python
+- JavaScript
+- HTML
+- CSS
+- Linux
+- Git & GitHub
+- Bash
 
-* Cybersecurity
-* Backend Development
-* Linux Administration
-* Networking
-* Automation
-* Web Development
-* Open Source Software
-
----
-
-## Technologies
-
-### Languages
-
-* Python
-* JavaScript
-* HTML
-* CSS
-
-### Tools & Platforms
-
-* Linux
-* Git & GitHub
-* Bash
-* VS Code / Neovim
-
-### Linux Distributions
-
-* Arch Linux
-* Alpine Linux
-
----
-
-## Featured Project
+## 🚀 Featured Project
 
 ### Linux Web Terminal Simulator
 
-A browser-based Linux terminal simulator inspired by Debian environments.
+A Debian-inspired Linux terminal simulator built with HTML, CSS and JavaScript.
 
-Built using:
+## 📚 Currently Learning
 
-* HTML
-* CSS
-* JavaScript
+- Cybersecurity
+- Backend Development
+- Networking
+- Linux Security
 
-The project was created to simulate common Linux terminal commands and provide an interactive experience directly in the browser.
+## 📫 Contact
 
----
-
-## Currently Learning
-
-* Cybersecurity Fundamentals
-* Security Operations
-* Network Security
-* Linux Security
-* Backend Development
-* Incident Response
-
----
-
-## Contact
-
-📧 [alanschaffer@proton.me]
-
+📧 alanschaffer@proton.me
