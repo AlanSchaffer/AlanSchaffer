@@ -6,7 +6,7 @@ First-Semester ADS Student • Cybersecurity Enthusiast • Linux User
 
 - First-semester ADS (Information Systems Analysis and Development) student
 - Interested in Cybersecurity and Backend Development
-- Arch Linux and Alpine Linux user (experienced with i3wm, KDE, GNOME, and Hyprland environments)
+- Arch Linux and Alpine Linux user
 - Currently completing the Google Cybersecurity Professional Certificate
 - English: B1 
 
