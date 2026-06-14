@@ -8,7 +8,7 @@ First-Semester ADS Student • Cybersecurity Enthusiast • Linux User
 - Interested in Cybersecurity and Backend Development
 - Arch Linux and Alpine Linux user
 - Currently completing the Google Cybersecurity Professional Certificate
-- English: B1 (B2 reading and listening)
+- English: B1 
 
 ## 🛠️ Technologies
 
@@ -25,6 +25,8 @@ First-Semester ADS Student • Cybersecurity Enthusiast • Linux User
 ### Linux Web Terminal Simulator
 
 A Debian-inspired Linux terminal simulator built with HTML, CSS and JavaScript.
+
+Currently under active development.
 
 ## 📚 Currently Learning
 
