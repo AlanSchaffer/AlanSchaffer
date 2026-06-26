@@ -31,8 +31,6 @@ First-Semester ADS Student • Cybersecurity Enthusiast • Linux User
 
 A Debian-inspired Linux terminal simulator built with HTML, CSS and JavaScript.
 
-Currently under active development.
-
 ## 📚 Currently Learning
 
 - Cybersecurity
